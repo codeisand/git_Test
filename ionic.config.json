@@ -1,0 +1,7 @@
+{
+  "name": "git_Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
